@@ -91,7 +91,7 @@ https://assetstore.unity.com/packages/3d/environments/tropical-forest-pack-49391
 6. [Entstehung der Landeskrone, Dokumentation Teil 6](https://youtu.be/nsPj5WEEn0w)
 
 ## Credits
-Auftraggeber/Rechteinhaber: [Senckenberg Gesellschaft für Naturforschung] (https://senckenberg.de/)  
+Auftraggeber/Rechteinhaber: [Senckenberg Gesellschaft für Naturforschung](https://senckenberg.de/)  
 Entwicklung/Urheber: Matthias Knappe, [EDBYTO](https://edbyto.com)
 
 ## Lizenz  
