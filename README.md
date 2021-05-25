@@ -10,6 +10,7 @@
 * [Benutzung](#Benutzung)
 	* [Video-Tutorials (youtube.com)](#video-tutorials-youtubecom)
 * [Credits](#Credits)
+* [Nutzung des Quellcodes](#Nutzung des Quellcodes)
 * [Lizenz](#Lizenz)
 
 ## Kurzbeschreibung
@@ -93,6 +94,12 @@ https://assetstore.unity.com/packages/3d/environments/tropical-forest-pack-49391
 ## Credits
 Auftraggeber/Rechteinhaber: [Senckenberg Gesellschaft für Naturforschung](https://senckenberg.de/)  
 Entwicklung/Urheber: Matthias Knappe, [EDBYTO](https://edbyto.com)
+
+## Nutzung des Quellcodes
+Der vollständige Quellcode des Unity Projektes kann bei Senckenberg Museum für Naturkunde Görlitz angefragt werden.  
+Kontaktinformationen:  
+* [Jens Wesenberg](mailto:jens.wesenberg@senckenberg.de)  
+* [Kristin Baber](mailto:kristin.baber@senckenberg.de)
 
 ## Lizenz  
 Vulkananimation Copyright © 2019 Senckenberg Gesellschaft für Naturforschung; erstellt durch Matthias Knappe (EDBYTO), im Rahmen des Verbundprojekts museum4punkt0.
