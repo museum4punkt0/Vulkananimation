@@ -10,7 +10,7 @@
 * [Benutzung](#Benutzung)
 	* [Video-Tutorials (youtube.com)](#video-tutorials-youtubecom)
 * [Credits](#Credits)
-* [Nutzung des Quellcodes](#Nutzung des Quellcodes)
+* [Nutzung des Quellcodes](#nutzung-des-quellcodes)
 * [Lizenz](#Lizenz)
 
 ## Kurzbeschreibung
